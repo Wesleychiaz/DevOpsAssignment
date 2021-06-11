@@ -1,6 +1,6 @@
 # DevOpsAssignment
 DevOps Assignment with reference to KeYule Repo; 
-Credits to: https://github.com/keyule/Telegram-Bot-for-Bots
+Credits to: https://github.com/keyule/Telegram-Bot-for-Bots  (https://t.me/BotsSGBot)
 
 A chatbot on Telegram that returns a list of Bots/Channels in SG
 
