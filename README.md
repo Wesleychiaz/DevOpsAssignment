@@ -4,8 +4,10 @@ Credits to: https://github.com/keyule/Telegram-Bot-for-Bots  (https://t.me/BotsS
 
 A chatbot on Telegram that returns a list of Bots/Channels in SG
 
-In this case, I will be using a chatbot to trigger a workflow or simple notification instead
+In this case, I will be using a chatbot that saves and return inputs.
 
-Might fail, might succeed. Hoping for the best.
+![SS](https://user-images.githubusercontent.com/75791753/121622155-145ab880-caa0-11eb-8abd-745bd3bac432.png)
+
+
 
 https://t.me/nusprojectbot
