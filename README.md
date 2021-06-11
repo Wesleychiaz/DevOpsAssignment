@@ -15,6 +15,7 @@ Idea is to create a simple telegram bot that saves and returns inputs. Applicati
 Process includes
 
 -Creating a Telegram bot using t.me/botfather
+
 -Using web browser to check activity of Bot
   Basic Info of Bot: https://api.telegram.org/botXXX/getme
   Retrieve msg to sent to Bot: https://api.telegram.org/botXXX>/getUpdate
