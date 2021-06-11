@@ -8,11 +8,11 @@ https://t.me/nusprojectbot
 
 ![SS](https://user-images.githubusercontent.com/75791753/121622155-145ab880-caa0-11eb-8abd-745bd3bac432.png)
 
-Overview
+# Overview
 
 Idea is to create a simple telegram bot that saves and returns inputs. Applications for the bot can be to save notes, or a simple to-do list.  
 
-Steps 
+## Steps 
 
 1. Create a Telegram bot using t.me/botfather  
 
