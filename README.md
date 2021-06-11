@@ -7,3 +7,5 @@ A chatbot on Telegram that returns a list of Bots/Channels in SG
 In this case, I will be using a chatbot to trigger a workflow or simple notification instead
 
 Might fail, might succeed. Hoping for the best.
+
+https://t.me/nusprojectbot
