@@ -12,21 +12,24 @@ Overview
 
 Idea is to create a simple telegram bot that saves and returns inputs. Applications for the bot can be to save notes, or a simple to-do list.  
 
-Process includes  
+Steps 
 
--Creating a Telegram bot using t.me/botfather  
+1. Create a Telegram bot using t.me/botfather  
 
--Using web browser to check activity of Bot  
+2. Using web browser to check activity of Bot  
   Basic Info of Bot: https://api.telegram.org/botXXX/getme  
   Retrieve msg to sent to Bot: https://api.telegram.org/botXXX>/getUpdate  
   Sending msg from Bot: https://api.telegram.org/botXXX/sendMessage?chat_id=<chat-id>&text=TestReply  
   
--Set up Python  
+3. Set up Python  
   Install libraries: pip3 install request  
   To check pip verison: pip --version  
   List of pip functions: pip help  
  
- -Python code (Base): Echo function  
- -Import libraries to include emoticons:  
-    -import urllib  
+4. Python code (Base): Echo function  
+  Link code to telegram bot using bot token to authenticate with Telegram API and create url for requests to API  
+  Reference at: codementor.io  
+  Include time: import time  
+  Set up delay between requests to reduce Telegram server load  
+  Import libraries to include emoticons: import urllib 
     
