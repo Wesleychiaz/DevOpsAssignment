@@ -32,4 +32,6 @@ Idea is to create a simple telegram bot that saves and returns inputs. Applicati
   Include time: import time  
   Set up delay between requests to reduce Telegram server load  
   Import libraries to include emoticons: import urllib 
-    
+
+## Next Steps
+  Link to database to save inputs
